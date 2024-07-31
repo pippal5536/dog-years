@@ -63,6 +63,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact Information
 For any further queries or feedback, feel free to contact me:
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- Email: pippaljob0@gmail.com
+- LinkedIn: [oishik-biswas](https://www.linkedin.com/in/oishik-biswas/)
+- GitHub: [pippal5536](https://github.com/pippal5536)
